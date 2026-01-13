@@ -1,2 +1,6 @@
 <!-- STATUS -->
 Project is still in build and isn't complete yet some features might not be working as expected and the responsiveness might not be fully and neatly done hence it's still in production 
+<!-- TECH STACK -->
+HTML
+CSS
+
